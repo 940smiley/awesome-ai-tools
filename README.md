@@ -1,6 +1,6 @@
-# 🐾 Awesome AI Tools — Curated by the Freedom Fleamarket Hounds
+# 🐾 Awesome AI Tools
 
-A massive, community-driven list of 19,000+ AI tools across every category imaginable—scraped, sorted, and sniffed out for your automation pleasure.
+A massive, community-driven list of 19,000+ AI tools across every category imaginable—scraped, sorted out for your automation pleasure.
 
 ## 🔍 Categories
 - Image Generation
@@ -15,7 +15,4 @@ A massive, community-driven list of 19,000+ AI tools across every category imagi
 - Filterable by category, pricing, and use case
 
 ## 🤝 Contribute
-Found a new tool? Submit a PR or open an issue. Let the Hounds know!
-
-## 🐾 Mascot Motto
-_"We sniff out the signal in the noise."_
+Found a new tool? Submit a PR or open an issue. Let us know!
